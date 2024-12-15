@@ -3,6 +3,7 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:lvc="clr-namespace:LiveCharts.Wpf;assembly=LiveCharts.Wpf"
         xmlns:local="clr-namespace:WPFView"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
@@ -33,9 +34,18 @@
             </Grid>
         </GroupBox>
 
-        <GroupBox Margin="0 0 -400 0">
-
+        <GroupBox Header="Распределение студентов по специальностям">
+            <lvc:CartesianChart Series="{Binding ChartSeries}">
+                <lvc:CartesianChart.AxisX>
+                    <lvc:Axis Title="Специальности" Labels="{Binding ChartLabels}" />
+                </lvc:CartesianChart.AxisX>
+                <lvc:CartesianChart.AxisY>
+                    <lvc:Axis Title="Количество студентов" />
+                </lvc:CartesianChart.AxisY>
+            </lvc:CartesianChart>
         </GroupBox>
-
+        <GroupBox>
+            <Image VerticalAlignment="Center" HorizontalAlignment="Center" Source="C:\Users\Сергей\Downloads\wakeup.jpg"/>
+        </GroupBox>
     </UniformGrid>
 </Window>

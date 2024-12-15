@@ -20,3 +20,9 @@ C:\Users\Сергей\source\repos\aislab5\ViewModel\bin\Debug\DataAccessLayer.p
 C:\Users\Сергей\source\repos\aislab5\ViewModel\bin\Debug\DataAccessLayer.dll.config
 C:\Users\Сергей\source\repos\aislab5\ViewModel\bin\Debug\EntityFramework.xml
 C:\Users\Сергей\source\repos\aislab5\ViewModel\bin\Debug\Dapper.xml
+C:\Users\Сергей\source\repos\aislab5\ViewModel\bin\Debug\LiveCharts.dll
+C:\Users\Сергей\source\repos\aislab5\ViewModel\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Сергей\source\repos\aislab5\ViewModel\bin\Debug\LiveCharts.pdb
+C:\Users\Сергей\source\repos\aislab5\ViewModel\bin\Debug\LiveCharts.xml
+C:\Users\Сергей\source\repos\aislab5\ViewModel\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Сергей\source\repos\aislab5\ViewModel\bin\Debug\LiveCharts.Wpf.xml

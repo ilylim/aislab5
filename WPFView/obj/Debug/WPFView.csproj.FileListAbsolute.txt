@@ -35,3 +35,9 @@ C:\Users\Сергей\source\repos\aislab5\WPFView\obj\Debug\WPFView.exe
 C:\Users\Сергей\source\repos\aislab5\WPFView\obj\Debug\WPFView.pdb
 C:\Users\Сергей\source\repos\aislab5\WPFView\obj\Debug\UpdateWindow.g.cs
 C:\Users\Сергей\source\repos\aislab5\WPFView\obj\Debug\UpdateWindow.baml
+C:\Users\Сергей\source\repos\aislab5\WPFView\bin\Debug\LiveCharts.dll
+C:\Users\Сергей\source\repos\aislab5\WPFView\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Сергей\source\repos\aislab5\WPFView\bin\Debug\LiveCharts.pdb
+C:\Users\Сергей\source\repos\aislab5\WPFView\bin\Debug\LiveCharts.xml
+C:\Users\Сергей\source\repos\aislab5\WPFView\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Сергей\source\repos\aislab5\WPFView\bin\Debug\LiveCharts.Wpf.xml

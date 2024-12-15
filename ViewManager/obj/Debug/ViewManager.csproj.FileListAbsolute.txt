@@ -29,3 +29,9 @@ C:\Users\Сергей\source\repos\aislab5\ViewManager\obj\Debug\ViewManager.pdb
 C:\Users\Сергей\source\repos\aislab5\ViewManager\bin\Debug\PresentationFramework.dll
 C:\Users\Сергей\source\repos\aislab5\ViewManager\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\Сергей\source\repos\aislab5\ViewManager\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Сергей\source\repos\aislab5\ViewManager\bin\Debug\LiveCharts.dll
+C:\Users\Сергей\source\repos\aislab5\ViewManager\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Сергей\source\repos\aislab5\ViewManager\bin\Debug\LiveCharts.pdb
+C:\Users\Сергей\source\repos\aislab5\ViewManager\bin\Debug\LiveCharts.xml
+C:\Users\Сергей\source\repos\aislab5\ViewManager\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Сергей\source\repos\aislab5\ViewManager\bin\Debug\LiveCharts.Wpf.xml
