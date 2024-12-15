@@ -1,0 +1,41 @@
+﻿<Window x:Class="WPFView.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFView"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <UniformGrid>
+        <GroupBox Header="Список студентов">
+            <ListView Name="StudentsListView" ItemsSource="{Binding Students}" SelectedItem="{Binding CurrentStudent}">
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn Header="ID" DisplayMemberBinding="{Binding Id}"/>
+                        <GridViewColumn Header="ФИО" DisplayMemberBinding="{Binding Name}"/>
+                        <GridViewColumn Header="Группа" DisplayMemberBinding="{Binding Group}"/>
+                        <GridViewColumn Header="Специальность" DisplayMemberBinding="{Binding Speciality}"/>
+                    </GridView>
+                </ListView.View>
+            </ListView>
+        </GroupBox>
+
+        <GroupBox Header="Взаимодействие со студентами">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="65*"/>
+                    <RowDefinition Height="67*"/>
+                    <RowDefinition Height="62*"/>
+                </Grid.RowDefinitions>
+                <Button x:Name="AddButton" Content="Добавить студента" Command="{Binding SwitchToAddViewCommand}" HorizontalAlignment="Center" Margin="0,10,0,0" VerticalAlignment="Top" Width="368" Height="40"/>
+                <Button Content="Изменить студента" Command="{Binding SwitchToUpdateViewCommand}" HorizontalAlignment="Center" VerticalAlignment="Top" Width="368" Height="40" Margin="0,12,0,0" Grid.Row="1"/>
+                <Button Content="Удалить студента" Command="{Binding DeleteStudentCommand}" HorizontalAlignment="Center" VerticalAlignment="Center" Width="368" Height="40" Grid.Row="2"/>
+            </Grid>
+        </GroupBox>
+
+        <GroupBox Margin="0 0 -400 0">
+
+        </GroupBox>
+
+    </UniformGrid>
+</Window>

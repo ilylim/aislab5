@@ -1,0 +1,38 @@
+﻿<Window x:Class="WPFView.AddWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFView"
+        mc:Ignorable="d"
+        Title="AddWindow" Height="200" Width="461">
+    <UniformGrid>
+        <GroupBox Header="Добавить студента">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="113*"/>
+                    <ColumnDefinition Width="336*"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="39*"/>
+                    <RowDefinition Height="32*"/>
+                    <RowDefinition Height="32*"/>
+                    <RowDefinition Height="58*"/>
+                </Grid.RowDefinitions>
+                <Label Content="ФИО" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.451,0.34"/>
+                <Label Content="Группа" HorizontalAlignment="Left" Margin="10,2,0,0" VerticalAlignment="Top" Grid.Row="1"/>
+                <Label Content="Специальность" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,1,0,0" Grid.Row="2"/>
+                <TextBox DataContext="{Binding CurrentStudent}" Text="{Binding Name}" HorizontalAlignment="Left" Margin="7,14,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="306" Grid.Column="1" PreviewTextInput="ValidationNameTextBox"/>
+                <TextBox DataContext="{Binding CurrentStudent}" Text="{Binding Group}" HorizontalAlignment="Left" Margin="7,6,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="306" Grid.Column="1" Grid.Row="1" PreviewTextInput="ValidationGroupTextBox"/>
+                
+                <Button Grid.Column="1" Content="Добавить" Command="{Binding AddStudentCommand}" HorizontalAlignment="Left" Margin="7,0,0,0" VerticalAlignment="Center" Height="36" Width="306" Grid.Row="3"/>
+                <ComboBox DataContext="{Binding CurrentStudent}" SelectedValuePath="Content" SelectedValue="{Binding Speciality}" HorizontalAlignment="Left" Margin="7,0,0,0" VerticalAlignment="Center" Width="306" Grid.Column="1" Grid.Row="2">
+                    <ComboBoxItem Content="ИСИТ"/>
+                    <ComboBoxItem Content="ИБ"/>
+                    <ComboBoxItem Content="ИВТ"/>
+                    <ComboBoxItem Content="ПИ"/>
+                </ComboBox>
+            </Grid>
+        </GroupBox>
+    </UniformGrid>
+</Window>
