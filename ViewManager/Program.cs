@@ -29,7 +29,6 @@ namespace ViewManager
             Application app = new Application();
 
             ViewModelManager.GetDeleteVM();
-
             app.Run();
         }
 

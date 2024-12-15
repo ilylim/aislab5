@@ -121,11 +121,5 @@
       <Name>ViewModel</Name>
     </ProjectReference>
   </ItemGroup>
-  <ItemGroup>
-    <Resource Include="fgdsgdsfgdsgdf.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <Resource Include="photo1670080229.jpeg" />
-  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
