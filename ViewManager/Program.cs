@@ -34,8 +34,8 @@ namespace ViewManager
 
         private static void CreateDeleteView(DeleteViewModel deleteViewModel)
         {
-            deleteViewModel.SwitchToAddViewEvent += OnAddViewOpen;
-            deleteViewModel.SwitchToUpdateViewEvent += OnUpdateViewOpen;
+            deleteViewModel.SwitchToAddViewEvent += ViewModelManager.GetAddVM;
+            deleteViewModel.SwitchToUpdateViewEvent += ViewModelManager.GetUpdateVM;
             var mainWindow = new MainWindow();
             mainWindow.DataContext = deleteViewModel;
             mainWindow.Show();
@@ -55,15 +55,6 @@ namespace ViewManager
             AddViewModel = addViewModel;
             addWindow.DataContext = addViewModel;
             addWindow.Show();
-        }
-
-        private static void OnAddViewOpen()
-        {
-            ViewModelManager.GetAddVM();
-        }
-        private static void OnUpdateViewOpen()
-        {
-            ViewModelManager.GetUpdateVM();
         }
     }
 }

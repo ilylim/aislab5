@@ -42,7 +42,7 @@ namespace ViewModel
         private void UpdateStudent(object parameter)
         {
             studentsManager.Update(CurrentStudent);
-            MessageBox.Show("Студент успешно обновлен!", "Успех", MessageBoxButton.OK, MessageBoxImage.Information);
+            MessageBox.Show("Красава ! Студент успешно обновлен !", "МЯУ", MessageBoxButton.OK, MessageBoxImage.Information);
 
             if (parameter is Window window)
             {
