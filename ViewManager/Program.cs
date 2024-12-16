@@ -12,10 +12,22 @@ namespace ViewManager
 {
     internal class Program
     {
+        /// <summary>
+        /// ViewModel для окна с добавлением студнта
+        /// </summary>
         private static AddViewModel AddViewModel {  get; set; }
+
+        /// <summary>
+        /// ViewModel для окна с изменением студента
+        /// </summary>
         private static UpdateViewModel UpdateViewModel {  get; set; }
+
+        /// <summary>
+        /// ViewModelManager для организации работы нескольких ViewModel многооконного приложения
+        /// </summary>
         private static ViewModelManager ViewModelManager { get; set; }
-        [STAThread] // Требуется для запуска WPF
+
+        [STAThread] // Нужен для запуска WPF
         static void Main(string[] args)
         {
             ViewModelManager = new ViewModelManager();
@@ -28,10 +40,16 @@ namespace ViewManager
 
             Application app = new Application();
 
+            // Вызываем событие обновления DeleteViewModel для запуска начального окна (т.к. начальное окно у нас реализует удаление студентов)
             ViewModelManager.GetDeleteVM();
+
             app.Run();
         }
 
+        /// <summary>
+        /// Метод создания стартового окна удаления студентов и связывания его DataContext с DeleteViewModel
+        /// </summary>
+        /// <param name="deleteViewModel">ViewModel для удаления студентов</param>
         private static void CreateDeleteView(DeleteViewModel deleteViewModel)
         {
             deleteViewModel.SwitchToAddViewEvent += ViewModelManager.GetAddVM;
@@ -41,6 +59,10 @@ namespace ViewManager
             mainWindow.Show();
         }
 
+        /// <summary>
+        /// Метод создания окна изменения студентов и связывания его DataContext с UpdateViewModel
+        /// </summary>
+        /// <param name="updateViewModel">ViewModel для изменения студентов</param>
         private static void CreateUpdateView(UpdateViewModel updateViewModel)
         {
             var updateWindow = new UpdateWindow();
@@ -49,6 +71,10 @@ namespace ViewManager
             updateWindow.Show();
         }
 
+        /// <summary>
+        /// Метод создания окна добавления студентов и связывания его DataContext с AddViewModel
+        /// </summary>
+        /// <param name="addViewModel">ViewModel для добавления студентов</param>
         private static void CreateAddView(AddViewModel addViewModel)
         {
             var addWindow = new AddWindow();

@@ -12,14 +12,22 @@ namespace Model.Managers
 {
     public class StudentsManager : IManager<Student>
     {
+        /// <summary>
+        /// Репозиторий для работы с БД
+        /// </summary>
         private IRepository<Student> Repository { get; set; }
+        
+        /// <summary>
+        /// Конструктор StudentsManager
+        /// </summary>
+        /// <param name="repository">репозиторий для работы с БД</param>
         public StudentsManager(IRepository<Student> repository)
         {
             Repository = repository;
         }
 
         /// <summary>
-        /// Событие оповещения об изменении сущностей
+        /// Коллекция со всеми студентами
         /// </summary>
         public ObservableCollection<Student> Students { get; set; } = new ObservableCollection<Student>();
 
@@ -34,7 +42,7 @@ namespace Model.Managers
         }
 
         /// <summary>
-        /// Метод добавления информации из БД в словарь студентов
+        /// Метод добавления информации из БД в коллекцию студентов
         /// </summary>
         public void ReadAll()
         {
@@ -47,12 +55,12 @@ namespace Model.Managers
         /// <summary>
         /// Метод удаления студентов
         /// </summary>
-        /// <param name="code">код студента</param>
-        public void Delete(int code)
+        /// <param name="id">Id студента</param>
+        public void Delete(int id)
         {
             for(int i = 0; i < Students.Count; i++)
             {
-                if (Students[i].Id == code)
+                if (Students[i].Id == id)
                 {
                     Repository.Delete(Students[i]);
                     Students.Remove(Students[i]);
@@ -63,10 +71,7 @@ namespace Model.Managers
         /// <summary>
         /// Метод изменения студента
         /// </summary>
-        /// <param name="code">код студента</param>
-        /// <param name="newName">измененное ФИО</param>
-        /// <param name="newGroup">измененная группа</param>
-        /// <param name="newSpeciality">измененная специальность</param>
+        /// <param name="updateStudent">экземпляр с измененной информацией о студенте</param>
         public void Update(Student updateStudent)
         {
             for (int i = 0; i < Students.Count; i++)

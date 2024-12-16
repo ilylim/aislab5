@@ -12,7 +12,7 @@ namespace Model.Interfaces
         /// <summary>
         /// Метод создания сущности
         /// </summary>
-        /// <param name="obj"></param>
+        /// <param name="obj">экземпляр новой сущности</param>
         void Create(T obj);
         /// <summary>
         /// Метод вывода сущностей
@@ -21,12 +21,12 @@ namespace Model.Interfaces
         /// <summary>
         /// Метод обновления сущности
         /// </summary>
-        /// <param name="obj"></param>
+        /// <param name="obj">экземпляр измененной сущности</param>
         void Update(T obj);
         /// <summary>
         /// Метод удаления сущности
         /// </summary>
-        /// <param name="Id"></param>
+        /// <param name="Id">Id сущности</param>
         void Delete(int Id);
     }
 }

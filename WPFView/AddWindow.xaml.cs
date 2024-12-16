@@ -25,6 +25,12 @@ namespace WPFView
         {
             InitializeComponent();
         }
+        
+        /// <summary>
+        /// Метод проверки вводимых пользователем символов в TextBox с ФИО
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void ValidationNameTextBox(object sender, TextCompositionEventArgs e)
         {
             // Разрешаем только буквы (русские и английские)
@@ -33,6 +39,12 @@ namespace WPFView
                 e.Handled = true; // Блокируем ввод
             }
         }
+
+        /// <summary>
+        /// Метод проверки вводимых пользователем символов в TextBox с названием группы
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void ValidationGroupTextBox(object sender, TextCompositionEventArgs e)
         {
             // Разрешаем только буквы (русские и английские)
