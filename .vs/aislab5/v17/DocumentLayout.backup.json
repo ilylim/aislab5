@@ -3,56 +3,64 @@
   "WorkspaceRootPath": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\source\\repos\\aislab5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4B259E67-4D0E-4AE9-A220-7E4DFB13ABEF}|WPFView\\WPFView.csproj|c:\\users\\\u0441\u0435\u0440\u0433\u0435\u0439\\source\\repos\\aislab5\\wpfview\\updatewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{4B259E67-4D0E-4AE9-A220-7E4DFB13ABEF}|WPFView\\WPFView.csproj|solutionrelative:wpfview\\updatewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{89ACCF48-2F23-434F-AD3A-0A31A337EBFE}|ViewModel\\ViewModel.csproj|C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\source\\repos\\aislab5\\viewmodel\\viewmodelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89ACCF48-2F23-434F-AD3A-0A31A337EBFE}|ViewModel\\ViewModel.csproj|solutionrelative:viewmodel\\viewmodelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B259E67-4D0E-4AE9-A220-7E4DFB13ABEF}|WPFView\\WPFView.csproj|c:\\users\\\u0441\u0435\u0440\u0433\u0435\u0439\\source\\repos\\aislab5\\wpfview\\updatewindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
-      "RelativeMoniker": "D:0:0:{4B259E67-4D0E-4AE9-A220-7E4DFB13ABEF}|WPFView\\WPFView.csproj|solutionrelative:wpfview\\updatewindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+      "AbsoluteMoniker": "D:0:0:{89ACCF48-2F23-434F-AD3A-0A31A337EBFE}|ViewModel\\ViewModel.csproj|C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\source\\repos\\aislab5\\viewmodel\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89ACCF48-2F23-434F-AD3A-0A31A337EBFE}|ViewModel\\ViewModel.csproj|solutionrelative:viewmodel\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B259E67-4D0E-4AE9-A220-7E4DFB13ABEF}|WPFView\\WPFView.csproj|c:\\users\\\u0441\u0435\u0440\u0433\u0435\u0439\\source\\repos\\aislab5\\wpfview\\addwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
-      "RelativeMoniker": "D:0:0:{4B259E67-4D0E-4AE9-A220-7E4DFB13ABEF}|WPFView\\WPFView.csproj|solutionrelative:wpfview\\addwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+      "AbsoluteMoniker": "D:0:0:{89ACCF48-2F23-434F-AD3A-0A31A337EBFE}|ViewModel\\ViewModel.csproj|c:\\users\\\u0441\u0435\u0440\u0433\u0435\u0439\\source\\repos\\aislab5\\viewmodel\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{89ACCF48-2F23-434F-AD3A-0A31A337EBFE}|ViewModel\\ViewModel.csproj|solutionrelative:viewmodel\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B259E67-4D0E-4AE9-A220-7E4DFB13ABEF}|WPFView\\WPFView.csproj|c:\\users\\\u0441\u0435\u0440\u0433\u0435\u0439\\source\\repos\\aislab5\\wpfview\\addwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{4B259E67-4D0E-4AE9-A220-7E4DFB13ABEF}|WPFView\\WPFView.csproj|solutionrelative:wpfview\\addwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{89ACCF48-2F23-434F-AD3A-0A31A337EBFE}|ViewModel\\ViewModel.csproj|C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\source\\repos\\aislab5\\viewmodel\\viewmodels\\deleteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89ACCF48-2F23-434F-AD3A-0A31A337EBFE}|ViewModel\\ViewModel.csproj|solutionrelative:viewmodel\\viewmodels\\deleteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B259E67-4D0E-4AE9-A220-7E4DFB13ABEF}|WPFView\\WPFView.csproj|c:\\users\\\u0441\u0435\u0440\u0433\u0435\u0439\\source\\repos\\aislab5\\wpfview\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
-      "RelativeMoniker": "D:0:0:{4B259E67-4D0E-4AE9-A220-7E4DFB13ABEF}|WPFView\\WPFView.csproj|solutionrelative:wpfview\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+      "AbsoluteMoniker": "D:0:0:{89ACCF48-2F23-434F-AD3A-0A31A337EBFE}|ViewModel\\ViewModel.csproj|C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\source\\repos\\aislab5\\viewmodel\\viewmodels\\addviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89ACCF48-2F23-434F-AD3A-0A31A337EBFE}|ViewModel\\ViewModel.csproj|solutionrelative:viewmodel\\viewmodels\\addviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C41F8865-8B30-4A8B-A213-C35C26B81EDE}|ViewManager\\ViewManager.csproj|C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\source\\repos\\aislab5\\viewmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C41F8865-8B30-4A8B-A213-C35C26B81EDE}|ViewManager\\ViewManager.csproj|solutionrelative:viewmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD0BA5E-3EEA-47F7-B345-689A3F28F3B2}|Model\\Model.csproj|c:\\users\\\u0441\u0435\u0440\u0433\u0435\u0439\\source\\repos\\aislab5\\model\\modelconfigmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBD0BA5E-3EEA-47F7-B345-689A3F28F3B2}|Model\\Model.csproj|solutionrelative:model\\modelconfigmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4B259E67-4D0E-4AE9-A220-7E4DFB13ABEF}|WPFView\\WPFView.csproj|c:\\users\\\u0441\u0435\u0440\u0433\u0435\u0439\\source\\repos\\aislab5\\wpfview\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{4B259E67-4D0E-4AE9-A220-7E4DFB13ABEF}|WPFView\\WPFView.csproj|solutionrelative:wpfview\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{89ACCF48-2F23-434F-AD3A-0A31A337EBFE}|ViewModel\\ViewModel.csproj|c:\\users\\\u0441\u0435\u0440\u0433\u0435\u0439\\source\\repos\\aislab5\\viewmodel\\viewmodelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89ACCF48-2F23-434F-AD3A-0A31A337EBFE}|ViewModel\\ViewModel.csproj|solutionrelative:viewmodel\\viewmodelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{89ACCF48-2F23-434F-AD3A-0A31A337EBFE}|ViewModel\\ViewModel.csproj|c:\\users\\\u0441\u0435\u0440\u0433\u0435\u0439\\source\\repos\\aislab5\\viewmodel\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89ACCF48-2F23-434F-AD3A-0A31A337EBFE}|ViewModel\\ViewModel.csproj|solutionrelative:viewmodel\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{89ACCF48-2F23-434F-AD3A-0A31A337EBFE}|ViewModel\\ViewModel.csproj|c:\\users\\\u0441\u0435\u0440\u0433\u0435\u0439\\source\\repos\\aislab5\\viewmodel\\viewmodels\\addviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89ACCF48-2F23-434F-AD3A-0A31A337EBFE}|ViewModel\\ViewModel.csproj|solutionrelative:viewmodel\\viewmodels\\addviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{89ACCF48-2F23-434F-AD3A-0A31A337EBFE}|ViewModel\\ViewModel.csproj|c:\\users\\\u0441\u0435\u0440\u0433\u0435\u0439\\source\\repos\\aislab5\\viewmodel\\viewmodels\\deleteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89ACCF48-2F23-434F-AD3A-0A31A337EBFE}|ViewModel\\ViewModel.csproj|solutionrelative:viewmodel\\viewmodels\\deleteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{89ACCF48-2F23-434F-AD3A-0A31A337EBFE}|ViewModel\\ViewModel.csproj|c:\\users\\\u0441\u0435\u0440\u0433\u0435\u0439\\source\\repos\\aislab5\\viewmodel\\viewmodels\\updateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{89ACCF48-2F23-434F-AD3A-0A31A337EBFE}|ViewModel\\ViewModel.csproj|C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\source\\repos\\aislab5\\viewmodel\\viewmodels\\updateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{89ACCF48-2F23-434F-AD3A-0A31A337EBFE}|ViewModel\\ViewModel.csproj|solutionrelative:viewmodel\\viewmodels\\updateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E221108-CC0F-45FE-BBB2-B8EAAF867F10}|Entities\\Entities.csproj|c:\\users\\\u0441\u0435\u0440\u0433\u0435\u0439\\source\\repos\\aislab5\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E221108-CC0F-45FE-BBB2-B8EAAF867F10}|Entities\\Entities.csproj|solutionrelative:entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4B259E67-4D0E-4AE9-A220-7E4DFB13ABEF}|WPFView\\WPFView.csproj|C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\source\\repos\\aislab5\\wpfview\\updatewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4B259E67-4D0E-4AE9-A220-7E4DFB13ABEF}|WPFView\\WPFView.csproj|solutionrelative:wpfview\\updatewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C41F8865-8B30-4A8B-A213-C35C26B81EDE}|ViewManager\\ViewManager.csproj|c:\\users\\\u0441\u0435\u0440\u0433\u0435\u0439\\source\\repos\\aislab5\\viewmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C41F8865-8B30-4A8B-A213-C35C26B81EDE}|ViewManager\\ViewManager.csproj|solutionrelative:viewmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4B259E67-4D0E-4AE9-A220-7E4DFB13ABEF}|WPFView\\WPFView.csproj|C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\source\\repos\\aislab5\\wpfview\\updatewindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{4B259E67-4D0E-4AE9-A220-7E4DFB13ABEF}|WPFView\\WPFView.csproj|solutionrelative:wpfview\\updatewindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B259E67-4D0E-4AE9-A220-7E4DFB13ABEF}|WPFView\\WPFView.csproj|C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\source\\repos\\aislab5\\wpfview\\addwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{4B259E67-4D0E-4AE9-A220-7E4DFB13ABEF}|WPFView\\WPFView.csproj|solutionrelative:wpfview\\addwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B259E67-4D0E-4AE9-A220-7E4DFB13ABEF}|WPFView\\WPFView.csproj|C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\source\\repos\\aislab5\\wpfview\\addwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4B259E67-4D0E-4AE9-A220-7E4DFB13ABEF}|WPFView\\WPFView.csproj|solutionrelative:wpfview\\addwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B259E67-4D0E-4AE9-A220-7E4DFB13ABEF}|WPFView\\WPFView.csproj|C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\source\\repos\\aislab5\\wpfview\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{4B259E67-4D0E-4AE9-A220-7E4DFB13ABEF}|WPFView\\WPFView.csproj|solutionrelative:wpfview\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E221108-CC0F-45FE-BBB2-B8EAAF867F10}|Entities\\Entities.csproj|C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\source\\repos\\aislab5\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E221108-CC0F-45FE-BBB2-B8EAAF867F10}|Entities\\Entities.csproj|solutionrelative:entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,74 +70,102 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UpdateWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\source\\repos\\aislab5\\WPFView\\UpdateWindow.xaml",
-              "RelativeDocumentMoniker": "WPFView\\UpdateWindow.xaml",
-              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\source\\repos\\aislab5\\WPFView\\UpdateWindow.xaml",
-              "RelativeToolTip": "WPFView\\UpdateWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-16T11:10:02.53Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UpdateWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\source\\repos\\aislab5\\WPFView\\UpdateWindow.xaml.cs",
-              "RelativeDocumentMoniker": "WPFView\\UpdateWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\source\\repos\\aislab5\\WPFView\\UpdateWindow.xaml.cs",
-              "RelativeToolTip": "WPFView\\UpdateWindow.xaml.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAC4AAABWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T11:09:47.348Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AddWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\source\\repos\\aislab5\\WPFView\\AddWindow.xaml.cs",
-              "RelativeDocumentMoniker": "WPFView\\AddWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\source\\repos\\aislab5\\WPFView\\AddWindow.xaml.cs*",
-              "RelativeToolTip": "WPFView\\AddWindow.xaml.cs*",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T11:08:12.368Z",
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\source\\repos\\aislab5\\ViewModel\\packages.config",
+              "RelativeDocumentMoniker": "ViewModel\\packages.config",
+              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\source\\repos\\aislab5\\ViewModel\\packages.config",
+              "RelativeToolTip": "ViewModel\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-17T07:19:19.411Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "AddWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\source\\repos\\aislab5\\WPFView\\AddWindow.xaml",
-              "RelativeDocumentMoniker": "WPFView\\AddWindow.xaml",
-              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\source\\repos\\aislab5\\WPFView\\AddWindow.xaml",
-              "RelativeToolTip": "WPFView\\AddWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-16T11:08:10.608Z",
+              "Title": "DeleteViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\source\\repos\\aislab5\\ViewModel\\ViewModels\\DeleteViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\ViewModels\\DeleteViewModel.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\source\\repos\\aislab5\\ViewModel\\ViewModels\\DeleteViewModel.cs",
+              "RelativeToolTip": "ViewModel\\ViewModels\\DeleteViewModel.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAgwIkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T10:32:25.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\source\\repos\\aislab5\\ViewModel\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "ViewModel\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\source\\repos\\aislab5\\ViewModel\\RelayCommand.cs",
+              "RelativeToolTip": "ViewModel\\RelayCommand.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwCIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T10:50:51.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ViewModelManager.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\source\\repos\\aislab5\\ViewModel\\ViewModelManager.cs",
+              "RelativeDocumentMoniker": "ViewModel\\ViewModelManager.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\source\\repos\\aislab5\\ViewModel\\ViewModelManager.cs",
+              "RelativeToolTip": "ViewModel\\ViewModelManager.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAYwFEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T10:54:24.715Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\source\\repos\\aislab5\\WPFView\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "WPFView\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\source\\repos\\aislab5\\WPFView\\MainWindow.xaml.cs",
-              "RelativeToolTip": "WPFView\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "AddViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\source\\repos\\aislab5\\ViewModel\\ViewModels\\AddViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\ViewModels\\AddViewModel.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\source\\repos\\aislab5\\ViewModel\\ViewModels\\AddViewModel.cs",
+              "RelativeToolTip": "ViewModel\\ViewModels\\AddViewModel.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAxwDsAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T11:08:07.97Z",
+              "WhenOpened": "2024-12-16T10:32:00.302Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\source\\repos\\aislab5\\ViewManager\\Program.cs",
+              "RelativeDocumentMoniker": "ViewManager\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\source\\repos\\aislab5\\ViewManager\\Program.cs",
+              "RelativeToolTip": "ViewManager\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T10:24:21.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ModelConfigModule.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\source\\repos\\aislab5\\Model\\ModelConfigModule.cs",
+              "RelativeDocumentMoniker": "Model\\ModelConfigModule.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\source\\repos\\aislab5\\Model\\ModelConfigModule.cs",
+              "RelativeToolTip": "Model\\ModelConfigModule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T07:17:15.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\source\\repos\\aislab5\\WPFView\\MainWindow.xaml",
               "RelativeDocumentMoniker": "WPFView\\MainWindow.xaml",
@@ -141,7 +177,30 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 8,
+              "Title": "UpdateViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\source\\repos\\aislab5\\ViewModel\\ViewModels\\UpdateViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\ViewModels\\UpdateViewModel.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\source\\repos\\aislab5\\ViewModel\\ViewModels\\UpdateViewModel.cs",
+              "RelativeToolTip": "ViewModel\\ViewModels\\UpdateViewModel.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAiwEgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T10:32:43.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UpdateWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\source\\repos\\aislab5\\WPFView\\UpdateWindow.xaml",
+              "RelativeDocumentMoniker": "WPFView\\UpdateWindow.xaml",
+              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\source\\repos\\aislab5\\WPFView\\UpdateWindow.xaml",
+              "RelativeToolTip": "WPFView\\UpdateWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-16T11:10:02.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\source\\repos\\aislab5\\Entities\\Student.cs",
               "RelativeDocumentMoniker": "Entities\\Student.cs",
@@ -149,86 +208,54 @@
               "RelativeToolTip": "Entities\\Student.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAFEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T10:32:49.912Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T10:32:49.912Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "UpdateViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\source\\repos\\aislab5\\ViewModel\\ViewModels\\UpdateViewModel.cs",
-              "RelativeDocumentMoniker": "ViewModel\\ViewModels\\UpdateViewModel.cs",
-              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\source\\repos\\aislab5\\ViewModel\\ViewModels\\UpdateViewModel.cs",
-              "RelativeToolTip": "ViewModel\\ViewModels\\UpdateViewModel.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAADkAAABJAAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\source\\repos\\aislab5\\WPFView\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPFView\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\source\\repos\\aislab5\\WPFView\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WPFView\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T10:32:43.011Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "DeleteViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\source\\repos\\aislab5\\ViewModel\\ViewModels\\DeleteViewModel.cs",
-              "RelativeDocumentMoniker": "ViewModel\\ViewModels\\DeleteViewModel.cs",
-              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\source\\repos\\aislab5\\ViewModel\\ViewModels\\DeleteViewModel.cs",
-              "RelativeToolTip": "ViewModel\\ViewModels\\DeleteViewModel.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAQwFAAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T10:32:25.273Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AddViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\source\\repos\\aislab5\\ViewModel\\ViewModels\\AddViewModel.cs",
-              "RelativeDocumentMoniker": "ViewModel\\ViewModels\\AddViewModel.cs",
-              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\source\\repos\\aislab5\\ViewModel\\ViewModels\\AddViewModel.cs*",
-              "RelativeToolTip": "ViewModel\\ViewModels\\AddViewModel.cs*",
-              "ViewState": "AgIAABQAAAAAAAAAAAAQwDcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T10:32:00.302Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T11:08:07.97Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\source\\repos\\aislab5\\ViewManager\\Program.cs",
-              "RelativeDocumentMoniker": "ViewManager\\Program.cs",
-              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\source\\repos\\aislab5\\ViewManager\\Program.cs",
-              "RelativeToolTip": "ViewManager\\Program.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwBoAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T10:24:21.069Z",
-              "EditorCaption": ""
+              "Title": "AddWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\source\\repos\\aislab5\\WPFView\\AddWindow.xaml",
+              "RelativeDocumentMoniker": "WPFView\\AddWindow.xaml",
+              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\source\\repos\\aislab5\\WPFView\\AddWindow.xaml",
+              "RelativeToolTip": "WPFView\\AddWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-16T11:08:10.608Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ViewModelManager.cs",
-              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\source\\repos\\aislab5\\ViewModel\\ViewModelManager.cs",
-              "RelativeDocumentMoniker": "ViewModel\\ViewModelManager.cs",
-              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\source\\repos\\aislab5\\ViewModel\\ViewModelManager.cs",
-              "RelativeToolTip": "ViewModel\\ViewModelManager.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAQwCMAAAAVAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "AddWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\source\\repos\\aislab5\\WPFView\\AddWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPFView\\AddWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\source\\repos\\aislab5\\WPFView\\AddWindow.xaml.cs",
+              "RelativeToolTip": "WPFView\\AddWindow.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T10:54:24.715Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T11:08:12.368Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "RelayCommand.cs",
-              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\source\\repos\\aislab5\\ViewModel\\RelayCommand.cs",
-              "RelativeDocumentMoniker": "ViewModel\\RelayCommand.cs",
-              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\source\\repos\\aislab5\\ViewModel\\RelayCommand.cs",
-              "RelativeToolTip": "ViewModel\\RelayCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAApAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "UpdateWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\source\\repos\\aislab5\\WPFView\\UpdateWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPFView\\UpdateWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\source\\repos\\aislab5\\WPFView\\UpdateWindow.xaml.cs",
+              "RelativeToolTip": "WPFView\\UpdateWindow.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAC4AAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T10:50:51.721Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T11:09:47.348Z"
             }
           ]
         }

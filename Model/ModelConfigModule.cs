@@ -17,8 +17,8 @@ namespace Model
     {
         public override void Load()
         {
-            //Bind<IRepository<Student>>().To<EntityFrameworkRepository<Student>>().InSingletonScope();
-            Bind<IRepository<Student>>().To<DapperRepository<Student>>().InSingletonScope();
+            Bind<IRepository<Student>>().To<EntityFrameworkRepository<Student>>().InSingletonScope();
+            //Bind<IRepository<Student>>().To<DapperRepository<Student>>().InSingletonScope();
             Bind<IManager<Student>>().To<StudentsManager>().InSingletonScope();
         }
     }
